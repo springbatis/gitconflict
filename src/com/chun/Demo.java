@@ -10,7 +10,7 @@ public class Demo {
 		int c = 3;
 		System.out.println(c);
 		System.out.println("finally");
-		System.out.println("finally");
+		System.out.println("finall");
 	}
 
 }
