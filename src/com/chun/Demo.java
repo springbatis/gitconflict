@@ -10,6 +10,7 @@ public class Demo {
 		int c = 3;
 		System.out.println(c);
 		System.out.println("original");
+		System.out.println("bb");
 	}
 
 }
