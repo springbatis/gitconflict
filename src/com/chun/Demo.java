@@ -16,6 +16,10 @@ public class Demo {
 		for(int i=0;i<3;i++) {
 		   System.out.println(i+1);
 		}
+		for(int i=0;i<2;i++) {
+			System.out.println(i);
+		}
+		
 	}
 
 }
