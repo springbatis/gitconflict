@@ -14,7 +14,7 @@ public class Demo {
 		System.out.println("original");
 		System.out.println("bc");
 		for(int i=0;i<3;i++) {
-		   System.out.println(i);
+		   System.out.println(i+1);
 		}
 	}
 
