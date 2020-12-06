@@ -20,7 +20,7 @@ public class Demo {
 			System.out.println(i+2);
 		}
 		String str="oranges";
-		System.out.println(a);
+		System.out.println(str);
 
 	}
 
