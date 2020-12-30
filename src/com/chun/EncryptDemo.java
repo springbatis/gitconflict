@@ -38,7 +38,7 @@ public class EncryptDemo {
     }
 
     public static void main(String[] args) {
-        String content = "fff@123";
+        String content = "ccc@123";
         String workey = "adfdkjkjdfefe:12kjkdf3dfddfdfdfd";
         byte[] encrypt = encrypt(content, workey);
         System.out.println(new String(encrypt));
