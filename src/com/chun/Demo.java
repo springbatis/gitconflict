@@ -1,6 +1,7 @@
 package com.chun;
 
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 
 public class Demo {
@@ -27,7 +28,8 @@ public class Demo {
 		System.out.println(b);
 		List<Object> objects = Collections.emptyList();
 		System.out.println(str+"a");
+        HashMap<String, Object> stringObjectHashMap = new HashMap<>();
 
-	}
+    }
 
 }
