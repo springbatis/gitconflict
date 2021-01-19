@@ -1,5 +1,8 @@
 package com.chun;
 
+import java.util.Collections;
+import java.util.List;
+
 public class Demo {
 
 	public static void main(String[] args) {
@@ -22,8 +25,8 @@ public class Demo {
 		String str="oranges";
 
 		System.out.println(b);
-
-        System.out.println(str+"a");
+		List<Object> objects = Collections.emptyList();
+		System.out.println(str+"a");
 
 	}
 
